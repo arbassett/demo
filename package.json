@@ -1,0 +1,31 @@
+{
+  "name": "@noyau/playground",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "",
+  "scripts": {
+    "dev": "noyau dev",
+    "prod": "noyau build"
+  },
+  "dependencies": {
+    "@noyau/cli": "0.0.2",
+    "@noyau/core": "0.0.2",
+    "@noyau/kit": "0.0.2",
+    "@noyau/schema": "0.0.2",
+    "@noyau/module-spa": "0.0.2",
+    "@noyau/module-react": "0.0.2",
+    "@noyau/module-routes": "0.0.2",
+    "@noyau/module-tanstack-router": "0.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@tanstack/router": "0.0.1-beta.86"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "h3": "^1.6.6"
+  }
+}
