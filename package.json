@@ -11,14 +11,14 @@
     "prod": "noyau build"
   },
   "dependencies": {
-    "@noyau/cli": "0.0.2",
-    "@noyau/core": "0.0.2",
-    "@noyau/kit": "0.0.2",
-    "@noyau/schema": "0.0.2",
-    "@noyau/module-spa": "0.0.2",
-    "@noyau/module-react": "0.0.2",
-    "@noyau/module-routes": "0.0.2",
-    "@noyau/module-tanstack-router": "0.0.2",
+    "@noyau/cli": "0.0.3",
+    "@noyau/core": "0.0.3",
+    "@noyau/kit": "0.0.3",
+    "@noyau/schema": "0.0.3",
+    "@noyau/module-spa": "0.0.3",
+    "@noyau/module-react": "0.0.3",
+    "@noyau/module-routes": "0.0.3",
+    "@noyau/module-tanstack-router": "0.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@tanstack/router": "0.0.1-beta.86"
